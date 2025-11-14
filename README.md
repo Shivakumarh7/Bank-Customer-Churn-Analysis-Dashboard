@@ -97,7 +97,7 @@ This analysis answers the following business questions:
 
 ## 🌍 Dataset  
 
-**Source:** Kaggle — Bank Customer Churn Dataset  
+**Source: Bank Customer Churn Dataset  
 **Records:** 9,999  
 **Columns:** Geography, Gender, CreditScore, Age, Tenure, Balance, NumOfProducts, EstimatedSalary, IsActiveMember, Exited  
 
